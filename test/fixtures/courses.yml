@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  name: MyString
+  online_id: 1
+  start_date: 2014-01-29
+  teacher: MyString
+  avail_slots: 1
+
+two:
+  name: MyString
+  online_id: 1
+  start_date: 2014-01-29
+  teacher: MyString
+  avail_slots: 1
